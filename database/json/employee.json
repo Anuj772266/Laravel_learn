@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Rajnish Kumar",
+        "email" : "rajnish@gamil.com",
+        "age" : "20",
+        "city" : "Jaipur"
+
+    },
+    {
+        "name" : "Govind Kumar",
+        "email" : "govind@gamil.com",
+        "age" : "22",
+        "city" : "Jaipur"
+
+    },
+    {
+        "name" : "Kishor Mandal",
+        "email" : "kishor@gamil.com",
+        "age" : "23",
+        "city" : "Jaipur"
+
+    },
+    {
+        "name" : "Sandeep Sharma",
+        "email" : "sandeep@gamil.com",
+        "age" : "24",
+        "city" : "Jaipur"
+
+    }
+]

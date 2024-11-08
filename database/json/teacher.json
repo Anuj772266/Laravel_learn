@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Rohit Sharma",
+        "email" : "rohit@gamil.com"
+       
+    },
+    {
+        "name" : "Sunil Sharma",
+        "email" : "sunil@gamil.com"
+        
+    },
+    {
+        "name" : "Vicky Gupta",
+        "email" : "vicky@gamil.com"
+        
+    },
+    {
+        "name" : "Mohit Kumar",
+        "email" : "mohit@gamil.com"
+        
+},
+    {
+        "name" : "Sumit Gupta",
+        "email" : "sumit@gamil.com"
+       
+    }
+]
